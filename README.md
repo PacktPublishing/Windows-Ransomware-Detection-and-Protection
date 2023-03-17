@@ -68,3 +68,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Marius Sandbu**
 is a Cloud Evangelist and architect working at Sopra Steria in Norway with over 17 years in the IT industry. Marius has a wide range of technical experience across different technologies such as identity, networking, virtualization, endpoint management, infrastructure, and with a special focus on the public cloud. He is an avid blogger, co-hosts the CloudFirst Podcast, and is also an international speaker at events such as Microsoft Ignite and Citrix Synergy.
 He has previously worked at TietoEVRY where he was the technical lead for the Public Cloud unit and has also worked at the University of Oslo as a system administrator and at Microsoft as a Technical Advisor.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803246345">https://packt.link/free-ebook/9781803246345 </a> </p>
